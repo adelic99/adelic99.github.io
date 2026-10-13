@@ -1,6 +1,8 @@
 ---
 layout: archive
-permalink: /publications
+permalink: /publications/
+redirect_from:
+  - /publications.html
 title: "My publications"
 ---
 
